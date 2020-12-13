@@ -1,0 +1,10 @@
+20/12/11 04:42:32 INFO DAGScheduler: Job 100023 finished: collectAsMap at MulticlassMetrics.scala:53, took 0.076073 s
+Precision(2.0) = 0.6893203883495146
+Precision(4.0) = 0.0
+Recall(2.0) = 1.0
+Recall(4.0) = 0.0
+FPR(2.0) = 1.0
+FPR(4.0) = 0.0
+F1-Score(2.0) = 0.8160919540229885
+F1-Score(4.0) = 0.0
+Total Runtime in Seconds: 1991.08883141120/12/11 04:42:32 INFO SparkContext: Invoking stop() from shutdown hook
